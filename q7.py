@@ -143,6 +143,6 @@ def run_test_harness_3():
 
 	
 # entry point, run the test harness
-# run_test_harness_1()
-# run_test_harness_2()
+run_test_harness_1()
+run_test_harness_2()
 run_test_harness_3()

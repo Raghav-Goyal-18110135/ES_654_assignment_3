@@ -216,3 +216,5 @@ class mlp_regressor():
         res=self.forward_pass(self.params,X)
         # print(res.shape)
         return pd.Series(res.squeeze())
+
+
